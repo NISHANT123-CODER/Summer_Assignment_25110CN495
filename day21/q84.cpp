@@ -3,7 +3,11 @@
 #include<string>
 using namespace std;
 int main(){
+<<<<<<< HEAD
      string str;
+=======
+   string str;
+>>>>>>> fe525cb (Fixed merge conflicts)
     int i=0;
     cout<<"Enter the string:";
     getline(cin,str);
@@ -14,6 +18,10 @@ int main(){
      i++;
     }
     cout<<str<<endl;
+<<<<<<< HEAD
+=======
+   
+>>>>>>> fe525cb (Fixed merge conflicts)
    
    
 }
